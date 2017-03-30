@@ -2,10 +2,10 @@
 
 <widget xmins="http://www.w3.org/ns/widgets"
  xmlns:gap="http://phonegap.com/ns/1.0"
- id="com.phonegap.example1"
+ id="com.phonegap.example2"
  version="1.0.0">
  
- <name> app2 DARTOS DE LA TELEFONIA CELULAR</name>
+ <name> app2 DATOS DE LA TELEFONIA CELULAR</name>
  
  <description>
  Aplicacion que muestra los DATOS sobre la telefonia crlular
